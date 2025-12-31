@@ -20,4 +20,3 @@ ___
 print()
 ```
 [image] (https://github.com/Seongeun-Jo/fisa06-gittest/blob/main/images.png?raw=true)
- 
