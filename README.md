@@ -3,7 +3,7 @@
 ![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Good%20Day%20To%20Code!&fontAlign=40&fontAlignY=40&color=gradient)
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FYeonjiKim0316&label=hits&icon=alarm-fill&color=%23198754&message=&style=flat&tz=UTC)
 
-![alt text](image.png)
+![alt text](image-1.png)
 
 ### 🙇 안녕하세요. 조성은입니다!
 ### 🦾 Skills
@@ -25,3 +25,4 @@
 
 ### Hi I'm Seongeun. 
 ###### I'm 25 year old. I live in Ilsan. I usually spend my time home baking and watching the baseball game.
+
